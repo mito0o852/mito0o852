@@ -1,13 +1,12 @@
 # Moustapha Oumar
 
-Backend developer, AI/ML learner-builder, and curious systems thinker.
+ML Engineer, Data Scientist, and curious systems thinker.
 
-I am interested in building useful things with code, understanding complex fields deeply, and turning ideas into practical systems. My work and learning usually sit somewhere between backend engineering, AI, automation, algorithmic trading, research, and personal knowledge systems.
+I am interested in building useful things with code, understanding complex fields deeply, and turning ideas into practical systems. My work and learning usually sit somewhere between ML engineering, AI, automation, algorithmic trading, and researching. 
 
 ## About Me
 
 - I work with backend systems, AI/ML ideas, and automation workflows.
-- I enjoy learning difficult subjects by breaking them into maps, mental models, and realistic practice.
 - I am interested in algorithmic trading, market structure, quantitative research, and systematic strategy building.
 - I like using AI as a thinking partner for learning, planning, research, debugging, and creative work.
 - I am also interested in writing, storytelling, and novel writing.
@@ -30,22 +29,6 @@ Novel Writing
 Storytelling
 Personal Operating Systems
 ```
-
-## How I Like To Build
-
-I like projects that start from a real problem, not just a technology trend.
-
-My usual pattern:
-
-```text
-Understand the field
-  -> Map the concepts
-  -> Build a small working system
-  -> Test it against real cases
-  -> Improve through feedback
-```
-
-This is also the thinking behind my learning framework, [AKMP](https://github.com/mito0o852/AKMP-Framework): map the knowledge, build understanding, then practice real situations.
 
 ## What I Am Exploring
 
