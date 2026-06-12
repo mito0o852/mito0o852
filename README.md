@@ -1,60 +1,84 @@
 # Moustapha Oumar
 
-Backend and AI/ML engineer building practical automation systems, learning frameworks, and language-model research tools.
+Backend developer, AI/ML learner-builder, and curious systems thinker.
 
-## Focus
+I am interested in building useful things with code, understanding complex fields deeply, and turning ideas into practical systems. My work and learning usually sit somewhere between backend engineering, AI, automation, algorithmic trading, research, and personal knowledge systems.
 
-- AI-assisted learning and knowledge systems
-- Backend engineering and automation
-- Machine learning engineering
-- LLM tooling and token-efficiency research
-- Practical DevOps foundations for deploying real applications
+## About Me
 
-## Featured Work
+- I work with backend systems, AI/ML ideas, and automation workflows.
+- I enjoy learning difficult subjects by breaking them into maps, mental models, and realistic practice.
+- I am interested in algorithmic trading, market structure, quantitative research, and systematic strategy building.
+- I like using AI as a thinking partner for learning, planning, research, debugging, and creative work.
+- I am also interested in writing, storytelling, and novel writing.
+- I care about building systems that are practical, simple enough to use, and strong enough to grow.
 
-| Project | What it is |
-|---|---|
-| [AKMP Framework](https://github.com/mito0o852/AKMP-Framework) | Accelerated Knowledge Mapping and Practice: a learning framework for mapping a field, building understanding, and practicing realistic situations. |
-| [CoordCompressCodec](https://github.com/mito0o852/CoordCompressCodec) | Lossless layered coordinate representation and compression for text, structured data, and token-reduction research. |
-| [CoordCompressCodecLM](https://github.com/mito0o852/CoordCompressCodecLM) | Recursive coordinate-token experiments for efficient language-model training and generation. |
-
-## How I Think About Learning
-
-I like systems that reduce noise and make progress faster.
-
-The learning workflow I am building is:
+## Current Interests
 
 ```text
-Map the Knowledge
-  -> Build Understanding
-  -> Practice Real Situations
-  -> Evaluate Gaps
-  -> Improve
+Artificial Intelligence
+Machine Learning
+Algorithmic Trading
+Backend Engineering
+Automation
+Knowledge Systems
+Learning Frameworks
+LLM Tools
+Quantitative Research
+DevOps Foundations
+Novel Writing
+Storytelling
+Personal Operating Systems
 ```
 
-This is the idea behind AKMP: learn the field first, deepen the right concepts, then practice with realistic cases before seeing the professional answer.
+## How I Like To Build
 
-## Current Direction
+I like projects that start from a real problem, not just a technology trend.
 
-- Turning AKMP into a reusable public framework
-- Exploring coordinate-based compression for language-model data
-- Building stronger AI-assisted workflows for research, learning, and automation
-- Improving production engineering skills around Docker, Kubernetes, and deployment systems
+My usual pattern:
+
+```text
+Understand the field
+  -> Map the concepts
+  -> Build a small working system
+  -> Test it against real cases
+  -> Improve through feedback
+```
+
+This is also the thinking behind my learning framework, [AKMP](https://github.com/mito0o852/AKMP-Framework): map the knowledge, build understanding, then practice real situations.
+
+## What I Am Exploring
+
+- AI-assisted learning and personal knowledge management
+- Backend systems for automation and intelligent workflows
+- Machine learning and LLM tooling
+- Algorithmic trading research and systematic strategy design
+- Coordinate-based compression and token-efficiency ideas
+- Practical DevOps, Docker, Kubernetes, and deployment systems
+- Creative writing and long-form storytelling
 
 ## Technical Areas
 
 ```text
 Python
-Backend systems
-Machine learning
-LLM research tools
-AI agents and automation
-Docker and Kubernetes learning
-Markdown knowledge systems
+Backend APIs
+Machine Learning
+AI Agents
+Automation
+Trading Research
+Docker
+Kubernetes
+Markdown / Obsidian
+GitHub Workflows
 ```
+
+## A Few Public Repositories
+
+- [AKMP Framework](https://github.com/mito0o852/AKMP-Framework)
+- [CoordCompressCodec](https://github.com/mito0o852/CoordCompressCodec)
+- [CoordCompressCodecLM](https://github.com/mito0o852/CoordCompressCodecLM)
 
 ## Connect
 
 - GitHub: [mito0o852](https://github.com/mito0o852)
-- Featured framework: [AKMP Framework](https://github.com/mito0o852/AKMP-Framework)
 
